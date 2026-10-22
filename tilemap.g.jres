@@ -1,0 +1,35 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZDAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTBhMGUwZTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwZTBlMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTBlMGUwMTAzMDgwOTAxMDEwMTAxMDEwMzA4MDkwMTAxMGUwZTAxMDQwMjA5MDEwMTAxMDEwMTA0MDIwOTAxMDEwZTBlMDEwNTA3MDYwMTAxMDEwMTAxMDUwNzA2MDEwMTBlMGUwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMGUwZTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwZTBlMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTBlMGUwMTAzMDgwOTAxMDEwMTAxMDEwMzA4MDkwMTAxMGUwZTAxMDQwMjA5MDEwMTAxMDEwMTA0MDIwOTAxMDEwZTBlMDEwNTA3MDYwMTAxMDEwMTAxMDUwNzA2MDEwMTBlMGUwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMGUwZTBjMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMGIwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMGUwZTBlMjIyMjIyMjIyMjIyMjIyMjAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMjIwMjAwMDAyMjAyMjAwMjIyMDIwMDAwMjIwMjIwMDIyMjAyMDAwMDIyMDIyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMDIwMDAwMDAwMDAwMDAyMDAyMjIwMjAwMDAyMjAyMjAwMjIyMDIwMDAwMjIwMjIwMDIyMjAyMDAwMDIyMDIyMDAyMDAwMDAwMDAwMDAwMjAwMjAwMDAwMDAwMDAwMDIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.castle.tilePath5",
+            "sprites.builtin.forestTiles10",
+            "sprites.builtin.forestTiles5",
+            "sprites.builtin.forestTiles9",
+            "sprites.builtin.forestTiles13",
+            "sprites.builtin.forestTiles15",
+            "sprites.builtin.forestTiles14",
+            "sprites.builtin.forestTiles6",
+            "sprites.builtin.forestTiles7",
+            "sprites.vehicle.roadTurn2",
+            "sprites.vehicle.roadTurn4",
+            "sprites.vehicle.roadTurn3",
+            "sprites.vehicle.roadTurn1",
+            "sprites.builtin.brick"
+        ],
+        "displayName": "level"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
